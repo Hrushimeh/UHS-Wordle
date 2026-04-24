@@ -1,6 +1,6 @@
 # 🍅 UHS-Wordle
 
-Hello and welcome to the UHS-Wordle repository!
+Hello and welcome to the UHS-Wordle repository! 🚗🚗
 
 ## 🍅 About
 
